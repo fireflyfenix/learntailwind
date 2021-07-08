@@ -1,0 +1,3 @@
+@tailwind base; /* css resets */
+@tailwind components;
+@tailwind utilities;
